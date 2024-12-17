@@ -10,10 +10,6 @@ A simple weather application that provides real-time weather information for any
 - 🔄 **Error Handling**: Handles errors gracefully with clear messages for invalid inputs or API failures.
 - 🎭 **Dynamic Icons**: Displays emojis based on the current weather conditions.
 
-## Live Demo
-
-🌐 Check out the live version of the Weather App: [Weather App Live Demo](#)  
-
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
