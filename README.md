@@ -62,7 +62,7 @@ Follow these steps to run the app locally:
 ![Home Page](homepage.PNG)
 
 ### Weather Results
-![Weather Results](screenshot.png)
+![Weather Results](weather.PNG)
 
 ### Error Message
 ![Error Message](error.PNG)
