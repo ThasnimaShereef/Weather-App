@@ -63,13 +63,13 @@ Follow these steps to run the app locally:
 ## Screenshots
 
 ### Home Page
-![Home Page](path_to_home_screenshot.png)
+![Home Page](homepage.PNG)
 
 ### Weather Results
-![Weather Results](path_to_results_screenshot.png)
+![Weather Results](screenshot.png)
 
 ### Error Message
-![Error Message](path_to_error_screenshot.png)
+![Error Message](error.PNG)
 
 ## Contributing
 
